@@ -1,15 +1,30 @@
-Lesly Roc's Portfolio
-Bienvenue sur mon portfolio Astro ! Ce projet est une vitrine de mes compétences en développement, en analyse de données et en apprentissage automatique. Vous y trouverez une sélection de projets personnels qui reflètent mon expertise et ma passion pour la technologie.
+
+
+
+# Bienvenue sur mon Portfolio Astro !
+
+Ce projet est une vitrine de mes compétences en développement, en analyse de données et en apprentissage automatique. Vous y trouverez une sélection de projets personnels qui reflètent mon expertise et ma passion pour la technologie.
+
+## Clonez le Dépôt
+
+Pour cloner ce dépôt sur votre machine locale, utilisez la commande suivante :
+
+```bash
+git clone https://github.com/Rocles/Roc_Lesly_porte_folio.git
 
 🛠️ Commands
-Toutes les commandes sont exécutées à partir de la racine du projet, via un terminal :
 
-Commande	Action
-npm install	Installe les dépendances
-npm run dev	Démarre le serveur de développement local sur localhost:4321
-npm run build	Compile le site pour la production dans ./dist/
-npm run preview	Prévisualise votre build localement, avant déploiement
-npm run astro ...	Exécute des commandes CLI comme astro add, astro check
-npm run astro -- --help	Obtenez de l'aide pour utiliser l'interface CLI d'Astro
-📚 En savoir plus
-Si vous souhaitez en savoir plus sur Astro, consultez la documentation officielle ou rejoignez notre serveur Discord.
+All commands are run from the root of the project, from a terminal:
+
+| Command                   | Action                                           |
+| :------------------------ | :----------------------------------------------- |
+| `npm install`             | Installs dependencies                            |
+| `npm run dev`             | Starts local dev server at `localhost:4321`      |
+| `npm run build`           | Build your production site to `./dist/`          |
+| `npm run preview`         | Preview your build locally, before deploying     |
+| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
+| `npm run astro -- --help` | Get help using the Astro CLI                     |
+
+## 👀 Want to learn more?
+
+Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
