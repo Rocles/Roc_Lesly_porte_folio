@@ -5,8 +5,6 @@
 
 Ce projet est une vitrine de mes compétences en développement, en analyse de données et en apprentissage automatique. Vous y trouverez une sélection de projets personnels qui reflètent mon expertise et ma passion pour la technologie.
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
-
 ## Clonez le Dépôt
 
 Pour cloner ce dépôt sur votre machine locale, utilisez la commande suivante :
